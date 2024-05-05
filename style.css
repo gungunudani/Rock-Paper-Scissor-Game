@@ -1,0 +1,42 @@
+    body {
+      background-color: rgb(25, 25, 25);
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .stlye-tittle {
+      font-size: 30px;
+      font-weight: bold;
+    }
+
+    .move-icon {
+      height: 50px;
+    }
+
+    .move-button {
+      background-color: transparent;
+      border: 3px solid white;
+      height: 120px;
+      width: 120px;
+      border-radius: 60px;
+      margin-right: 10px;
+      cursor: pointer;
+    }
+
+    .style-result {
+      margin-top: 50px;
+      font-weight: bold;
+      font-size: 25px;
+    }
+
+    .style-score {
+      margin-top: 50px;
+    }
+
+    .style-reset {
+      background-color: white;
+      font-size: 15px;
+      padding: 10px 15px;
+      border: none;
+      margin-top: 5px;
+    }
